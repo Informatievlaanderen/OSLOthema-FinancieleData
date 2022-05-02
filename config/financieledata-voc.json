@@ -1,11 +1,11 @@
 [
 {
-  "name": "mijn-vocabularium-voc",
+  "name": "financiële-data-voc",
   "type": "voc",
-  "eap": "MijnVocabularium-VOC.eap",
-  "diagram": "OSLO-MijnVocabularium",
+  "eap": "FinanciëleData-AP.eap",
+  "diagram": "DCJM-Taxonomie",
   "template": "mijn-vocabularium-voc.j2",
-  "title": "Mijn Vocabularium",
+  "title": "FinanciëleData: DCJM-Taxonomie",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2020-01-31",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
