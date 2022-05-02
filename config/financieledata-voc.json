@@ -3,7 +3,7 @@
   "name": "financiële-data-dcjm-taxonomie-voc",
   "type": "voc",
   "eap": "FinanciëleData-AP.eap",
-  "diagram": "DCJM-Taxonomie",
+  "diagram": "Taxonomie",
   "template": "mijn-vocabularium-voc.j2",
   "title": "FinanciëleData: DCJM-Taxonomie",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
