@@ -4,7 +4,7 @@
   "type": "voc",
   "eap": "OSLO-FinanciëleData.eap",
   "diagram": "Taxonomie",
-  "template": "mijn-vocabularium-voc.j2",
+  "template": "financieledata-voc.j2",
   "title": "FinanciëleData: Taxonomie DCJM",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2022-05-01",
