@@ -1,13 +1,17 @@
 {
-    "naam": "",
+    "naam": "Applicatieprofiel Financiële Data",
     "rapport" : "",
     "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
     "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
     "publicatiedatum": "TBD",
     "type_toepassing": "TBD",
     "categorie": "",
-    "beschrijving" : "",
-    "specificatiedocument": [],
+    "beschrijving" : "ap-FinanciëleData.md",
+    "specificatiedocument": [
+        {
+        "naam": "Loongegevens Applicatieprofiel",
+        "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/financiële-data"}
+    ],
     "documentatie": [],
     "charter": [],
     "verslagen": [
