@@ -9,7 +9,7 @@
     "beschrijving" : "ap-FinanciëleData.md",
     "specificatiedocument": [
         {
-        "naam": "Loongegevens Applicatieprofiel",
+        "naam": "Financiële Data Applicatieprofiel",
         "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/financiële-data"}
     ],
     "documentatie": [],
