@@ -2,7 +2,7 @@
 {
   "name": "financieledata-ap",
   "type": "ap",
-  "eap": "OSLO-FinancieleData.eap",
+  "eap": "OSLO-FinanciëleData.eap",
   "diagram": "OSLO-FinanciëleData",
   "template": "financieledata-ap.j2",
   "title": "Financiële Data",
