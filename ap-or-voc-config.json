@@ -10,7 +10,10 @@
     "specificatiedocument": [
         {
         "naam": "Financiële Data Applicatieprofiel",
-        "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/financiële-data"}
+        "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/financiele-data"},
+        {
+            "naam": "Financiële Data taxonomie-dcjm vocabularium",
+            "waarde": "https://data.vlaanderen.be/ns/financiele-data/taxonomie-dcjm"}
     ],
     "documentatie": [],
     "charter": [],
