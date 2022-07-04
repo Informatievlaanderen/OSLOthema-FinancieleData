@@ -1,11 +1,11 @@
 {
-    "naam": "Vocabularium en applicatieprofiel Financiële Data",
-    "rapport" : "",
+    "naam": "Applicatieprofiel Financiële Data",
+    "rapport" : "https://github.com/Informatievlaanderen/OSLO-Generated/raw/production/report/doc/applicatieprofiel/financiele-data/kandidaatstandaard/2022-06-23/all-financieledata-ap.jsonld",
     "verantwoordelijke_organisatie": "Departement Cultuur, Jeugd en Media",
-    "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO000067",
+    "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO000067",
     "publicatiedatum": "17/03/2022",
-    "type_toepassing": "TBD",
-    "categorie": "Vocabularium en applicatieprofiel",
+    "type_toepassing": "Aanbevolen (vrijwillig)",
+    "categorie": "applicatieprofiel",
     "beschrijving" : "ap-FinanciëleData.md",
     "specificatiedocument": [
         {
@@ -58,8 +58,9 @@
         }
     ],
     "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Financiële Data",
-    "organisatorisch_werkingsgebied": "",
+    "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
     "datum_van_aanmelding": "17/03/2022",
+    "datum_einde_review" : "",
     "erkenning_werkgroep_datastandaarden": "",
     "erkenning_stuurgroep": ""
   }
