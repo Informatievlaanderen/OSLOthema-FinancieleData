@@ -19,7 +19,12 @@
             "waarde": "https://data.vlaanderen.be/ns/financiele-data/taxonomie-dcjm"
         }
     ],
-    "charter": [],
+    "charter": [
+        {
+            "naam": "OSLO Financiële Data Charter",
+            "waarde": "Template-Werkgroep-Charter-OSLO.docx"
+        }
+    ],
     "verslagen": [
         {
             "naam": "Verslag business werkgroep -  24 februari 2022",
