@@ -1,6 +1,6 @@
 [
 {
-  "name": "financiele-data-dcjm-taxonomie-voc",
+  "name": "taxonomie-dcjm",
   "type": "voc",
   "eap": "OSLO-FinanciëleData.eap",
   "diagram": "Taxonomie",
