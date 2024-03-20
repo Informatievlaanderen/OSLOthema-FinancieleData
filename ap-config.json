@@ -1,5 +1,5 @@
 {
-    "naam": "Applicatieprofiel Financiële Data",
+    "naam": "Applicatieprofiel Financiële Rapportering",
     "rapport": "https://github.com/Informatievlaanderen/OSLO-Generated/raw/production/report/doc/applicatieprofiel/financiele-data/kandidaatstandaard/2022-06-23/all-financieledata-ap.jsonld",
     "verantwoordelijke_organisatie": "Departement Cultuur, Jeugd en Media",
     "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO000067",
@@ -9,19 +9,19 @@
     "beschrijving": "ap-FinanciëleData.md",
     "specificatiedocument": [
         {
-            "naam": "Financiële Data Applicatieprofiel",
+            "naam": "Financiële Rapportering Applicatieprofiel",
             "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/financiele-data"
         }
     ],
     "documentatie": [
         {
-            "naam": "Financiële Data taxonomie-dcjm vocabularium",
+            "naam": "Financiële Rapportering taxonomie-dcjm vocabularium",
             "waarde": "https://data.vlaanderen.be/ns/financiele-data/taxonomie-dcjm"
         }
     ],
     "charter": [
         {
-            "naam": "OSLO Financiële Data Charter",
+            "naam": "OSLO Financiële Rapportering Charter",
             "waarde": "Template-Werkgroep-Charter-OSLO.docx"
         }
     ],
@@ -61,10 +61,10 @@
             "waarde": "220519_Presentatie_thematische_werkgroep_3_OSLO_FinancieleData.pdf"
         }
     ],
-    "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Financiële Data",
+    "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Financiële Rapportering",
     "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
     "datum_van_aanmelding": "17/03/2022",
-    "datum_einde_review": "",
-    "erkenning_werkgroep_datastandaarden": "",
+    "datum_einde_review": "26/12/2023",
+    "erkenning_werkgroep_datastandaarden": "25/01/2024",
     "erkenning_stuurgroep": ""
 }
