@@ -2,7 +2,7 @@
 {
   "name": "taxonomie-dcjm-voc",
   "type": "voc",
-  "eap": "OSLO-FinanciëleData.eap",
+  "eap": "OSLO-FinancieleData.eap",
   "diagram": "Taxonomie",
   "template": "financieledata-dcjm-voc.j2",
   "title": "Financiële Rapportering: Taxonomie DCJM",
