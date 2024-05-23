@@ -2,7 +2,7 @@
 {
   "name": "financiele-data",
   "type": "voc",
-  "eap": "OSLO-FinancieleData.eap",
+  "eap": "OSLO-FinancieleData_VOC.eap",
   "diagram": "OSLO-FinancieleData",
   "template": "financieledata-voc.j2",
   "title": "Vocabularium Financiële Rapportering",
