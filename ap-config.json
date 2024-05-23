@@ -3,9 +3,9 @@
     "rapport": "https://github.com/Informatievlaanderen/OSLO-Generated/raw/production/report/doc/applicatieprofiel/financiele-data/kandidaatstandaard/2022-06-23/all-financieledata-ap.jsonld",
     "verantwoordelijke_organisatie": "Departement Cultuur, Jeugd en Media",
     "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO000067",
-    "publicatiedatum": "17/03/2022",
+    "publicatiedatum": "2022-03-17",
     "type_toepassing": "Aanbevolen (vrijwillig)",
-    "categorie": "applicatieprofiel",
+    "categorie": "Applicatieprofiel",
     "beschrijving": "ap-FinanciëleData.md",
     "specificatiedocument": [
         {
