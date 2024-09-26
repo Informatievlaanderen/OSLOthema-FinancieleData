@@ -1,6 +1,6 @@
 [
 {
-  "name": "financieledata-voc",
+  "name": "financiele-rapportering",
   "type": "voc",
   "eap": "OSLO-FinancieleData_VOC.eap",
   "diagram": "OSLO-FinancieleData",
