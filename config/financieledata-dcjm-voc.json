@@ -1,17 +1,18 @@
 [
-{
-  "name": "taxonomie-dcjm",
-  "type": "voc",
-  "eap": "OSLO-FinancieleData.eap",
-  "diagram": "Taxonomie",
-  "template": "financieledata-dcjm-voc.j2",
-  "title": "Financiële Rapportering: Taxonomie DCJM",
-  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
-  "publication-date": "2024-04-17",
-  "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
-  "contributors-file": "stakeholders.csv",
-  "contributors-column": "MijnKolom",
-  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-FinancieleData/issues",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/vocabularium-financiele-rapportering/"
-}
+  {
+    "name": "taxonomie-dcjm",
+    "type": "voc",
+    "prefix": "financiele-rapportering",
+    "eap": "OSLO-FinancieleData.eap",
+    "diagram": "Taxonomie",
+    "template": "financieledata-dcjm-voc.j2",
+    "title": "Financiële Rapportering: Taxonomie DCJM",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
+    "publication-date": "2024-04-17",
+    "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "MijnKolom",
+    "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-FinancieleData/issues",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/vocabularium-financiele-rapportering/"
+  }
 ]
