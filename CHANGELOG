@@ -1,2 +1,6 @@
 2024-03-20
   - Aanpassing naamgeving van 'Financiële Data' naar 'Financiële Rapportering'
+
+2024-12-18
+  - Klasse 'ZakelijkRapport' gekopiëerd van package 'copies' rechtstreeks in de package van 'financiële data'
+  - Klasse 'Vereniging' gekopiëerd van package 'copies' rechtstreeks in de package van 'financiële data'
