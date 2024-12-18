@@ -5,3 +5,4 @@
   - Klasse 'ZakelijkRapport' gekopiëerd van package 'copies' rechtstreeks in de package van 'financiële data'
   - Klasse 'Vereniging' gekopiëerd van package 'copies' rechtstreeks in de package van 'financiële data'
   - Property 'eenheid' van 'NumeriekDatatype' een definition en een name gegegeven
+  - Association class 'geassocieerd met' tussen 'FinancieelRapport' en 'RapportRelatie' een definitie gegeven
