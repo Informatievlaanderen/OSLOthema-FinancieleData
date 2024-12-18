@@ -6,3 +6,5 @@
   - Klasse 'Vereniging' gekopiëerd van package 'copies' rechtstreeks in de package van 'financiële data'
   - Property 'eenheid' van 'NumeriekDatatype' een definition en een name gegegeven
   - Association class 'geassocieerd met' tussen 'FinancieelRapport' en 'RapportRelatie' een definitie gegeven
+  - Association class 'geassocieerd met' tussen 'Concept' en 'Conceptrelatie' een definitie gegeven
+  - Association class 'geassocieerd met' tussen 'Dimensieconcept' en 'Dimensieconceptrelatie' een definitie gegeven
